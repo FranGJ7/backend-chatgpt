@@ -50,4 +50,4 @@ app.post("/", async (req, res) => {
 })
 
 
-app.listen(5000, ()=> console.log("Servidor conectado!"))
+app.listen("https://chatgpt-03.onrender.com", ()=> console.log("Servidor conectado!"))
